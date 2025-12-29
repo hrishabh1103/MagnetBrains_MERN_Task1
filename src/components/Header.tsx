@@ -25,7 +25,7 @@ export default function Header() {
         }}>
             <div className="container" style={{ padding: 0, display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
                 <Link href="/tasks" style={{ fontSize: '1.5rem', fontWeight: 700, background: 'linear-gradient(to right, #6366f1, #ec4899)', WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent' }}>
-                    TaskMaster
+                    Magnet Brains
                 </Link>
 
                 <div style={{ display: 'flex', gap: '1.5rem', alignItems: 'center' }}>

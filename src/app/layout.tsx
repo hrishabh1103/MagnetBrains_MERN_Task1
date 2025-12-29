@@ -2,8 +2,8 @@ import './globals.css';
 import { ReactNode } from 'react';
 
 export const metadata = {
-  title: 'Task Management System',
-  description: 'A simple task management system',
+  title: 'Magnet Brains Task Manager',
+  description: 'Task management system for Magnet Brains',
 };
 
 export default function RootLayout({
